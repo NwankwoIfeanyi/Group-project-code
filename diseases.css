@@ -1,0 +1,170 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    margin-top:12px ;
+}
+.navbar ul{
+    list-style: none;
+display: flex;
+}
+.navbar li{
+margin-right: 40px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.sanitas1{
+    display: flex;
+}
+.sanitas1 img{
+    width: 30px;
+    border-radius: 50%;
+}
+.upper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px;
+    height:300px ;
+    background-image: url(/Img/blu\ virus.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.upper h1{
+    margin-left: 173px;
+    margin-top: 40px;
+    font-size: xx-large;
+    color: aliceblue;
+}
+.upper img{
+    height: 250px;
+    width: 600px;
+    border-radius: 0px 43px ;
+}
+.conditions{
+    margin-top: 30px;
+   
+}
+.view{
+    margin-left: -142px;
+    font-size: 19px;
+}
+.list{
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.top{
+    border: transparent ;
+     height: 43px;
+     background-color: rgb(222, 247, 247) ;
+}
+.buttom{
+    border: transparent ;
+    height: 43px;
+    background-color: rgb(222, 247, 247) ;
+    
+}
+.arrow{
+    width: 20px;
+    height: 20px;
+}
+.roll{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+   margin-left: 100px;
+}
+.roll:hover{
+    border-bottom:2px solid green;
+}
+.conditions h3{
+    border: 90px;
+    display: flex;
+    justify-content:space-between ;
+     gap: 950px;
+}
+.section-row{
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+}
+.section-pic{
+    width: 245px;
+    height: 220px;
+    margin-left: -1px;
+    border-radius: 20px 20px 0 0;
+    margin-top: 5px;
+    
+}
+.sections{
+    align-content: center;
+}
+.that{
+    margin-top: 10px;
+}
+.row{
+    background-color: rgb(238, 231, 222);
+    padding: 15px;
+    border-radius: 20px;
+    width: 270px;
+    height: 510px;
+    margin-left: 70px;
+    box-sizing: border-box;
+    border: 0px solid black;
+}
+
+.row img:hover{
+    transition: 0.3em;
+    color: black;
+}
+h3{
+    margin-top: 15px;
+    font-size: 25px;
+}
+.special{
+    margin-top: 50px;
+}
+ h6{
+    margin-top: 10px;
+    font-size: 17px;
+} 
+.row p{
+    font-size: 16px;
+    margin-top: 10px;
+}
+.section-row2{
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+}
+footer {
+background-color: rgb(178, 249, 248);
+display: flex;
+margin-top: 30px;
+padding: 12px;
+}
+footer ul{
+   list-style: none;
+}
+.first_row{
+ margin-left: 120px;
+ margin-top: 10px;
+}
+.second_row{
+margin-left: 180px;
+}
+.third_row{
+margin-left: 240px;
+}
+.icon1 {
+  width: 40px;
+  border-radius: 50%;
+}

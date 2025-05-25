@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    margin-top:12px ;
+}
+.navbar ul{
+    list-style: none;
+display: flex;
+}
+.navbar li{
+margin-right: 40px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.sanitas1{
+    display: flex;
+}
+.sanitas{
+    font-size: 22px;
+    margin-top: 6px;
+}
+.sanitas1 img{
+    width: 30px;
+    border-radius: 50%;
+} 
+h1{
+    margin-top: -32px;
+    margin-right: 14px;
+    font-size:50px;
+}
+h3{
+    margin-top: 23px;
+    font-size: x-large;
+}
+h2{
+    font-size: 35px;
+    margin-top: -1px;
+}
+h4{
+    margin-top: 5px;
+}
+
+.phone-box {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.about {
+    padding: 12px;
+    width: 640px;
+  margin-left: 330px;
+  background: #ffffff;
+}
+
+
+.upper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px;
+    height:300px ;
+   background-color: rgb(5, 167, 150);
+}
+.container{
+    margin-right: 90px;
+}
+.doctors{
+    margin-top: -22px;
+    margin-left: 50px;
+    width: 460px;
+    height: 350px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(178, 249, 248);
+    padding: 20px;
+    margin-top: 31px;
+}
+footer ul{
+    list-style: none;
+}
+h6{
+    font-size: larger;
+}
+
+.icon1{
+    width: 30px;
+    border-radius: 50%;
+}
+.pin{
+    margin-top: 10px;
+}
+.part{
+    display: flex;
+    margin-top: 23px;
+}
+.thing{
+    margin-top: -20px;
+}
+span{
+    color: rgb(182, 122, 237);
+    font-size: medium;
+}

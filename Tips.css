@@ -1,0 +1,135 @@
+ *{
+    padding: 0%;
+    margin: 0%;
+ }
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    margin-top:12px ;
+}
+.navbar ul{
+    list-style: none;
+display: flex;
+}
+.navbar li{
+margin-right: 40px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.sanitas1{
+    display: flex;
+}
+.sanitas1 img{
+    width: 30px;
+    border-radius: 50%;
+}
+
+.header {
+    border-bottom: 12px solid rgb(6, 160, 157);
+    border-top: 12px solid rgb(6, 160, 157);
+    padding: 12px;
+}
+
+h1 {
+    margin-left: 460px;
+} 
+
+.border_section {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.first {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 42px 0px 40px;
+    background-color: rgb(5, 167, 150);
+    margin-top: 30px;
+    width: 490px;
+    height: 170px;
+    margin-left: 260px;
+}
+
+p {
+    color: white;
+    margin-left: 82px;
+    margin-top: -25px;
+    font-size: x-large;
+}
+
+.arrow {
+    width: 30px;
+    height: 30px;
+    margin-top: 23px;
+    margin-left: 23px;
+}
+
+.arrow1 {
+    width: 17px;
+    height: 17px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+
+.section {
+    background-image: url(/Img/stethoscope.png);
+    background-position: 560px 0px;
+    background-repeat: no-repeat;
+    margin-left: 23px;
+}
+.section1{
+    background-image: url(/Img/stethoscope.png);
+    background-position: -30px 0px;
+    background-repeat: no-repeat;
+
+}
+button {
+    display: flex;
+    width: 120px;
+    height: 30px;
+    border: 0px;
+    background-color: rgb(5, 167, 150);
+    border-radius: 12px;
+}
+
+.view {
+    margin-top: 8px;
+    margin-left: 12px;
+    color: white;
+    border-bottom: 0.5px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(178, 249, 248);
+    padding: 22px;
+    margin-top: 60px;
+}
+h6 {
+    font-size: larger;
+}
+.first_row{
+    margin-left: 80px;
+margin-top: -42px;
+}
+.second_row{
+    margin-left: -50px;
+margin-top: 22px;
+}
+.third_row{
+    margin-right: 80px;
+margin-top: 22px;
+}
+.icon1 {
+    width: 30px;
+    border-radius: 50%;
+}
